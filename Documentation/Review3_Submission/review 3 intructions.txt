@@ -1,0 +1,18 @@
+The Final (3rd) Project Review will be held from 
+Schedule (10:30 AM – 2:00 PM, 35 min per group)
+* Day 1 – Tue, 20/10/2026 → G1 to G6
+* Day 2 – Wed, 21/10/2026 → G7 to G12
+* Day 3 – Thu, 22/10/2026 → G13 to G18
+Please check the schedule sheet for your group’s exact time slot.
+
+For the final review, every group must submit all of the following:
+Contact - Write contact details for all the team members.
+PPT – Final presentation
+Report – Complete project report
+Manual – How to Assemble and setup the project.
+CAD – CAD models and drawings
+Code – Full source code
+Video – Demo video of the working prototype
+
+Each group should create its own Google Drive folder, named G<No>_<Project Title>, and upload all the documents into it. Set the folder’s sharing to “Anyone with the link – Viewer” and email the link to [your email ID] before [deadline]. Use the subject line “Final Review – G<No> – <Project Title>” and list the names and register numbers of all team members in the email. 
+Groups with missing documents or a link that cannot be opened will not be evaluated. All team members must be present for the review
