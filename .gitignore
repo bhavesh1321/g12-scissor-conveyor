@@ -1,4 +1,7 @@
-Archive_Old_Files.zip
+﻿Archive_Old_Files.zip
 .claude/
 __pycache__/
 *.pyc
+~$*
+# script-generated decks (superseded by the original deck)
+Documentation/Presentation/G12_Final_Review_PPT_v*.pptx
